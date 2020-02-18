@@ -2,4 +2,5 @@ This program prompts the user for a year and determines whether or not the given
 For example, if the user were to type in 2020, the program would respond "That is a leap year!" If they were to type in 2021, the program would print out "That is not a leap year."
 
 April Rigot (amr272)
+
 Valerie Hosler (vlh24)
