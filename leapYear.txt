@@ -1,0 +1,19 @@
+name = input("What is your name?")
+print("Hello " + name + "! Welcome to the Leap Year Calculator.")
+
+checker = False
+while checker == False:
+    try:
+        year = int(input("Input a year: "))
+        if year % 4 == 0:
+            if year % 100 == 0 & year % 400 == 0:
+                checker = True
+            elif year % 100 == 0 & year % 400 != 0:
+                print("That is not a leap year. Try again!")
+            checker = True
+        else:
+            print("That is not a leap year. Try again!")
+    except ValueError:
+        print("That is not a year! Input a year. ")
+        
+print(str(year) + " is a leap year, " + name + "!")
