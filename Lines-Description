@@ -1,0 +1,37 @@
+Line by line description of the code
+
+Line 1 asks the user for their name and stores their input into name.
+
+Line 3 sets the boolean checker to false to signified that the year has not been checked to see if it is a leap year.
+
+Line 4 is a while loop that continues to run as long as checker is false.
+
+Lines 5 and 6 prompt you to input a year and attempts to convert the input into an int. If it can be converted, the program proceeds to line 7. If not the program excecutes lines 24 and 25.
+
+Line 7 tests to see if year is divisible by 4. If true the program executes line 8 if not it proceeds to lines 20-23.
+
+Line 8 tests to see if year is divisble by 100 and 400. if it is lines 9-11 are exceuted. If not lines 12-15 execute.
+
+Lines 9 and 10 prints that the year is a leap year and tell you to enjoy the extra day.
+
+Line 11 changes checker to true so that the loop will end
+
+Line 12 tests to see if the year is divisible by 100 but not 400. If the condition is true, 13-15 execute. If not lines 16-18 execute.
+
+Lines 13 and 14 inform you that it is not a leap year.
+
+Line 15 is the same as line 11.
+
+Line 16 executes if both 8 and 12 return false.
+
+Lines 17 and 18 tell you it is a leap year
+
+Line 19 is the same as line 11
+
+Line 20 executes if line 7 returns false.
+
+Line 21 and 22 inform you that it is not a leap year.
+
+Line 23 is the same as line 11
+
+Lines 24 and 25 execute if the user did not insert an int and informs you that you did not input a year. The while loop is then retested.
