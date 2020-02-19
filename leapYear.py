@@ -11,7 +11,7 @@ while checker == False:
                 print("Unfortunately, that isn't a leap year, " 
                       + name + ".")
                 checker = True
-            else :
+            else:
                 print("That is a leap year!" 
                       + " Enjoy the extra day, " + name + ".")    
                 checker = True
