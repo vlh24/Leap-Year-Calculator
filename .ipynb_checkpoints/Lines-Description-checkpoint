@@ -1,0 +1,6 @@
+Line by line description of the code
+
+Line 1 asks the user for their name and stores their input into name.
+
+Line 3 sets the boolean checker to false to signified that the year has not been checked to see if it is a leap year.
+
