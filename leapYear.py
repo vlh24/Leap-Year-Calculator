@@ -1,4 +1,4 @@
-name = input("What is your name?")
+name = input("Welcome to the Leap Year Calculator! What is your name?")
 
 checker = False
 while checker == False:
