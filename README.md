@@ -17,7 +17,7 @@ The below image shows the program's output when the input is a leap year.
 
 The below image shows the program's output when the input is not a leap year.
 
-<img src="C:\Users\April\Documents\cmpinf 0010\2021 Leap Year Calc.jpg" style="zoom: 80%;" />
+<img src="http://valeriehosler.com/pics/2021%20Leap%20Year%20Calc.jpg" style="zoom: 80%;" />
 
 ### Contributing 
 
