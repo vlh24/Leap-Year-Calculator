@@ -13,11 +13,11 @@ To run the program, cd to the directory that the program is saved in and type 'p
 
 The below image shows the program's output when the input is a leap year.
 
-<img src="http://valeriehosler.com/pics/2020.jpg" style="size: 80%;" />
+<img src="http://valeriehosler.com/pics/2020.jpg" />
 
 The below image shows the program's output when the input is not a leap year.
 
-<img src="http://valeriehosler.com/pics/2021.jpg" style="size: 80%;" />
+<img src="http://valeriehosler.com/pics/2021.jpg" />
 
 ### Contributing 
 
