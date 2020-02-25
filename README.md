@@ -1,6 +1,34 @@
-This program first prompts the user to input their name and then it greets them and tells them the purpose of the program. And then it prompts the user to input a year and determines whether or not the given year is a leap year. In order for the year to be a leap year, it has to be divisible by 4. If the year is also divisible by 100, the year has to also be divisible by 400 in order for it to be a leap year. If it's only divisible by 100, but not divisible by 400, it's not a leap year. 
-For example, if the user were to type in 2020, the program would respond "That is a leap year! Enjoy the extra day, name" If they were to type in 2021, the program would print out "Unfortunately, that isn't a leap year, name."
+## Leap Year Calculator
 
-April Rigot (amr272)
+Leap Year Calculator accepts a year as an input and determines whether or not said year is a leap year.
 
-Valerie Hosler (vlh24)
+### Installation
+
+Go to [Leap-Year-Calculator](https://github.com/vlh24/Leap-Year-Calculator) and click on the Clone or download button. On the Juptyer terminal, type `
+git clone [url]` .
+
+### Usage
+
+To run the program, cd to the directory that the program is saved in and type 'python leapYear.py' in the terminal line.
+
+The below image shows the program's output when the input is a leap year.
+
+<img src="http://valeriehosler.com/pics/2020%20Leap%20Year%20Calc.jpg" style="zoom: 80%;" />
+
+The below image shows the program's output when the input is not a leap year.
+
+<img src="http://valeriehosler.com/pics/2021%20Leap%20Year%20Calc.jpg" style="zoom: 80%;" />
+
+### Contributing 
+
+Pull requests are welcomed. To contribute you must first fork [Leap-Year-Calculator](https://github.com/vlh24/Leap-Year-Calculator), then send a pull request after making any changes. Please add a comment describing your contribution.
+
+### License
+
+Artistic License 2.0
+
+
+
+#### April Rigot (amr272)
+
+#### Valerie Hosler (vlh24)
