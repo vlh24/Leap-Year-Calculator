@@ -22,12 +22,3 @@ Software engineers shall commit themselves to making the analysis, specification
 
 [© 2020 IEEE – All rights reserved.](https://www.computer.org/copyright)
 
-#### This code of conduct was chosen because:
-
-> 1. It is from a well respected organization, IEEE Computer Society. This a professional society of the Institute of Electrical and Electronics Engineers (IEEE).
->
->    https://www.ieee.org/about/index.html
->
-> 2. It is both detailed enough, yet still concise. 
->
-> 3. Finally, it covers a wide array of potential ethical issues that are related to software development.
