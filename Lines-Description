@@ -1,4 +1,4 @@
-Line by line description of the code:
+#### Line by line description of the code:
 
 Line 1 asks the user for their name and stores their input into name.
 
@@ -29,9 +29,3 @@ Lines 17 and 18 tell you it is a leap year.
 Line 19 is the same as line 11.
 
 Line 20 executes if line 7 returns false.
-
-Line 21 and 22 inform you that it is not a leap year.
-
-Line 23 is the same as line 11.
-
-Lines 24 and 25 execute if the user did not insert an int and informs you that you did not input a year. The while loop is then retested.
